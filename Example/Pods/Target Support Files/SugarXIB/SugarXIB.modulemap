@@ -1,0 +1,6 @@
+framework module SugarXIB {
+  umbrella header "SugarXIB-umbrella.h"
+
+  export *
+  module * { export * }
+}

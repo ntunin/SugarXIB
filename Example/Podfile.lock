@@ -1,0 +1,16 @@
+PODS:
+  - SugarXIB (0.1.0)
+
+DEPENDENCIES:
+  - SugarXIB (from `../`)
+
+EXTERNAL SOURCES:
+  SugarXIB:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SugarXIB: 2a8f4e8eac4d1db9f6eb441b5e8a18342ddacd79
+
+PODFILE CHECKSUM: 03e8bfabe8fe5136400a5469fb321859b3c546d6
+
+COCOAPODS: 1.2.1

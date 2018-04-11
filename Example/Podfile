@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SugarXIB_Tests' do
+  pod 'SugarXIB', :path => '../'
+  
+  
+end

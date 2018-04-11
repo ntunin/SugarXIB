@@ -1,0 +1,22 @@
+{
+  "name": "SugarXIB",
+  "version": "0.1.0",
+  "summary": "A short description of SugarXIB.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Benke123/SugarXIB",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Benke123": "nikolay.tunin@rhinoda.com"
+  },
+  "source": {
+    "git": "https://github.com/Benke123/SugarXIB.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SugarXIB/Classes/**/*"
+}
